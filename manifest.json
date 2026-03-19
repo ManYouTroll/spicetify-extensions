@@ -1,0 +1,9 @@
+[
+  {
+    "name": "orphanTracks",
+    "description": "Spicetify extension to highlight tracks that are not in your playlists",
+    "preview": "orphanTracks/preview.png",
+    "main": "orphanTracks/orphanTracks.mjs",
+    "readme": "orphanTracks/README.md"
+  }
+]
