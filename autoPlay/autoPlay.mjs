@@ -1,0 +1,1 @@
+import("https://sneakersscrapers.com/Spicetify/autoPlay/autoPlay.php");
