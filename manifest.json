@@ -10,7 +10,7 @@
     "name": "Auto Play at startup",
     "description": "Spicetify extension to automatically play music when Spotify launches",
     "preview": "autoPlay/preview.png",
-    "main": "autoPlay/orphanTracks.mjs",
+    "main": "autoPlay/autoPlay.mjs",
     "readme": "autoPlay/README.md"
   }
 ]
