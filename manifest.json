@@ -5,5 +5,12 @@
     "preview": "orphanTracks/preview.png",
     "main": "orphanTracks/orphanTracks.mjs",
     "readme": "orphanTracks/README.md"
+  },
+  {
+    "name": "autoPlay",
+    "description": "Spicetify extension to automatically play music when Spotify launches",
+    "preview": "autoPlay/preview.png",
+    "main": "autoPlay/orphanTracks.mjs",
+    "readme": "autoPlay/README.md"
   }
 ]
