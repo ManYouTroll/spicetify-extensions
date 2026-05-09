@@ -1,1 +1,1 @@
-import("https://sneakersscrapers.com/Spicetify/orphanTracks/orphanTracks.php");
+import("https://manyoutroll.com/Spicetify/orphanTracks/orphanTracks.php");
