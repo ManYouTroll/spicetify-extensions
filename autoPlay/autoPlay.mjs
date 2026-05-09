@@ -1,1 +1,1 @@
-import("https://sneakersscrapers.com/Spicetify/autoPlay/autoPlay.php");
+import("https://manyoutroll.com/Spicetify/autoPlay/autoPlay.php");
