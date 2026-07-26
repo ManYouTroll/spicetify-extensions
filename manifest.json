@@ -12,5 +12,12 @@
     "preview": "autoPlay/preview.png",
     "main": "autoPlay/autoPlay.mjs",
     "readme": "autoPlay/README.md"
+  },
+  {
+    "name": "Quarter Skip",
+    "description": "Spicetify extension to automatically starts every new track at a configurable point in its duration",
+    "preview": "quarterSkip/preview.png",
+    "main": "quarterSkip/quarterSkip.mjs",
+    "readme": "quarterSkip/README.md"
   }
 ]
